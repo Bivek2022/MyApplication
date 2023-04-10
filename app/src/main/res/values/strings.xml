@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="ok">OK</string>
+    <string name="close">close</string>
+    <string name="txt_eg">This is text view</string>
+    <string name="enter_your_name">enter_your_name</string>
+    <string name="this_is_checkbox">this_is_checkbox</string>
+    <string name="option2_from_group">option2_from_group</string>
+    <string name="this_is_textview_2">this_is_textview_2</string>
+    <string name="option1_from_group">Option1 from group</string>
+    <string name="submit">submit</string>
+    <string name="enter_your_fav_club">enter your fav club</string>
+    <string name="Design_Your_App_Logo">Design YOur App Logo</string>
+    <string-array name="array_test">
+        <item>str</item>
+        <item>str2</item>
+        <item>str3</item>
+    </string-array>
+
+</resources>
